@@ -2,3 +2,6 @@
 
 SELECT запросы для работы с БД qa_shop
 https://docs.google.com/spreadsheets/d/1eZpUUB7hZ6OgTlPUjH7QvD0tFUf2AY1C8v-zjZvojGQ/edit?gid=0#gid=0
+
+JOIN запросы для работы с БД qa_shop
+https://docs.google.com/spreadsheets/d/1BTaiAigXXec8CwYEHZLQKsC_xjb7rUItqHmTYViS0Xg/edit?gid=0#gid=0
